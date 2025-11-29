@@ -1,0 +1,15 @@
+{
+  "name": "sports-analytics-api",
+  "version": "1.0.0",
+  "description": "Flask Sports Analytics API",
+  "main": "app.py",
+  "scripts": {
+    "dev": "python app.py",
+    "start": "python app.py",
+    "install-deps": "pip install -r requirements.txt"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
